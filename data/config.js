@@ -1,34 +1,28 @@
 export const meta = {
-  title: 'LeBron James - Web Developer and Designer',
-  description: 'Hey, I\'m LeBron. I\'m a web developer and designer building things people love.'
+  title: 'Ahmed Nurovic - Full-stack Developer, react and wordpress developer',
+  description: 'Hello there my name is Ahmed Nurovic. I\'m a web developer and designer building things people love.'
 }
 
 export const hero = {
-  title: "Hey there! I'm LeBron James.",
+  title: "Hello there my name is Ahmed Nurovic",
   desc: "I'm a web developer and designer building things people love."
 };
 
 export const projects = {
   title: 'My Projects',
-  desc: "Here are some of my favorite projects that I've worked on.",
+  desc: "Created and fixed components, worked with widgets and modules in integrated CMS and a lot of ther stuff",
   projects: [
     {
-      title: 'Lakers Official',
-      description: 'Home to the Los-Angeles Lakers',
-      link: 'https://lakers.com',
-      github: ''
+      title: 'OAEW Verlag',
+      description: 'Hotfixes, bugfixes, modules and components built',
+      link: 'https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften',
+      github: 'Private Git'
     },
     {
-      title: 'Cool App',
-      description: 'A cool app!',
-      link: 'https://lebronscoolapp.com',
-      github: 'theking-lbj/cool-app'
-    },
-    {
-      title: 'Another app',
-      description: 'Another app!',
-      link: 'https://anotherlebronapp.com',
-      github: 'theking-lbj/another-app'
+      title: 'Handwerk und Technik',
+      description: 'Worked from the begging and implemented components and widgets from the ground up (still in development)',
+      link: 'https://www.handwerk-technik.de',
+      github: 'Under development'
     }
   ]
 };
@@ -42,16 +36,23 @@ export const stack = {
     'Typescript',
     'React',
     'NextJS',
-    'TailwindCSS',
+    'SCSS',
     'Firebase',
-    'Git'
+    'Git',
+    'MSSQL',
+    'Docker',
+    'Digital Ocean',
+    'DDEV',
+    'PHP',
+    'React Native',
+    'Node',
+    'Express'
   ]
 };
 
 export const contact = {
   title: 'Contact Me',
-  email: 'lebron@gmail.com',
-  github: 'theking-lbj',
-  dribbble: 'theking-lbj',
-  linkedin: 'theking-lbj'
+  email: 'ahmed.nurovic',
+  github: 'ahmednurovic',
+  linkedin: 'https://www.linkedin.com/in/ahmednurovic/'
 };
