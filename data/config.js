@@ -21,7 +21,7 @@ export const projects = {
     {
       title: 'OAEW Verlag',
       description: 'Hotfixes, bugfixes, modules and components built',
-      link: 'https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften',
+      link: 'https://www.oeaw.ac.at',
       github: 'Live'
     },
     {
@@ -58,7 +58,8 @@ export const stack = {
     'PHP',
     'React Native',
     'Node',
-    'Express'
+    'Express',
+    'Jest'
   ]
 };
 
