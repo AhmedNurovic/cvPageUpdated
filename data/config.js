@@ -66,5 +66,5 @@ export const contact = {
   title: 'Contact Me',
   email: 'ahmed.nurovic',
   github: 'ahmednurovic',
-  linkedin: 'https://www.linkedin.com/in/ahmednurovic/'
+  linkedin: 'ahmednurovic/'
 };
